@@ -1,0 +1,15 @@
+Title attribute is added to the paragraph <p> element. This attribute shows itself when mouse hover on the paragraph, it shows as a tooltip.
+
+```
+<html>
+<body>
+
+<h2 title="header">The title Attribute</h2>
+
+<p title="it's a tooltip">
+Mouse pointer hover on this paragraph, the title attribute as a tooltip will be displayed.
+</p>
+
+</body>
+</html>
+```
